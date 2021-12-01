@@ -1,0 +1,13 @@
+public class Test {
+public ststic void main(String[] args)
+int age=4;
+if(age<=6)
+{
+System.out.println("Given list");
+}
+else
+{
+System.out.println("Allow inside only");
+}
+}
+}
